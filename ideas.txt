@@ -1,0 +1,32 @@
+Nonsense -> Logic
+High
+Somewhat
+
+"High Nonsense", "Somewhat Nonsense", "Vaguely Nonsense", "Vaguely Logical", "Somewhat Logical", "High Logic"
+
+
+"Extremely Wicked", "Very Wicked", "Somewhat Wicked", "Neutral", "Somewhat Virtuous", "Very Virtuous", "Extremely Virtuous"
+
+"No Linearity", "Low Linearity", "High Linearity"
+
+"No Rhyme", "Low Rhyme", "High Rhyme"
+
+The door is made of...
+
+wood
+iron
+paper mache
+solid gold
+crystal
+glass
+dark wood
+light
+stone
+
+and is decorated with
+
+[colors]?
+
+[animals/objects]
+
+
