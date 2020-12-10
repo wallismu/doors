@@ -1,3 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+html {
+    height: 100%;
+}
+body {
+    font-family: 'Special Elite', cursive;
+    font-size: 24px;
+    text-align: center;
+}
+.main { 
+    background-color: white;
+    color: gray;
+    opacity: 80%;
+    margin: 10% auto;
+    text-align: center;
+    max-width: 800px;
+    width: 100%
+}
+.main p {
+    padding: 35px;
+}
 .field {
-    color: blue;
+    color: black;
+    text-decoration: bold;
+}
+.button { 
+    display: inline-block;
+    margin: auto auto;
+}
+.button:hover {
+    background-color: red;
+    cursor: pointer;
 }

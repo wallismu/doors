@@ -4,6 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="js/generate.js"></script>
 
 	<title>Get a Door</title>
 
@@ -12,9 +13,18 @@
 </head>
 
 <body>
-	<script src="js/generate.js"></script>
+	<audio id="player" src=""></audio>
+	
 
-	Your world is: <span class="field" id="world">Hello</span>
+	<div class="main">
+		<p>
+			You see a door made of <span class="field" id="material"></span>, decorated with <span class="field" id="objects"></span>.
+			The place behind it is <span class="field" id="virtue"></span> and <span class="field" id="logic"></span>, with <span class="field" id="linear"></span> and <span class="field" id="rhyme"></span>.
+		</p>
+	</div>
 
+	<a class="button">
+		try again?
+	</a>
 </body>
 </html>

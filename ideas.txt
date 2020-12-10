@@ -22,11 +22,29 @@ glass
 dark wood
 light
 stone
+thread
+flesh
+wires
+glass
 
 and is decorated with
 
-[colors]?
+[animals/objects] covered in....
+beads
+crystals
+bugs
+caterpillars
+butterflies
+frogs
+yarn
+flowers
+orchids
+ribbons
+glitter
+rainbows
+mist
 
-[animals/objects]
 
+-- recolor background, gradient to match mood
+-- background SFX (looking rain, ocean, static, fighting, bar/noise, singing, animals)
 

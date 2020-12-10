@@ -6,5 +6,55 @@
         "Vaguely Logical", 
         "Somewhat Logical", 
         "High Logic"
+    ],
+    "virtue": [
+        "Extremely Wicked", 
+        "Very Wicked", 
+        "Somewhat Wicked", 
+        "Neutral", 
+        "Somewhat Virtuous", 
+        "Very Virtuous", 
+        "Extremely Virtuous"
+    ],
+    "material": [
+        "wood",
+        "iron",
+        "paper mache",
+        "solid gold",
+        "crystal",
+        "glass",
+        "dark wood",
+        "light",
+        "stone",
+        "thread",
+        "flesh",
+        "wires",
+        "glass",
+        "silver"
+    ],
+    "objects": [
+        "beads",
+        "crystals",
+        "bugs",
+        "caterpillars",
+        "butterflies",
+        "frogs",
+        "yarn",
+        "flowers",
+        "orchids",
+        "ribbons",
+        "glitter",
+        "rainbows",
+        "mist"
+    ],
+    "linear": [
+        "No Linearity", 
+        "Low Linearity", 
+        "High Linearity"
+    ],
+    "rhyme": [
+        "No Rhyme", 
+        "Low Rhyme", 
+        "High Rhyme"
     ]
 }
